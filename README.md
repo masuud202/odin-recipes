@@ -13,3 +13,9 @@ PRE-PROJECT GOALS:
             #Bold and Italics
             #Subpages
         *Command Prompt
+
+POST-PROJECT REFLECTION:
+    *Commited HTML boilerplates to memory
+    *Becoming more familiar with html syntax(img,href, etc)
+    *Becoming more fimiliar with git commands, especially commits and push
+    *Extremely comfortable with manuevering through commandprompt.
